@@ -1,0 +1,1 @@
+# This project is mainly to practice all i have learned from The Odin Project 
