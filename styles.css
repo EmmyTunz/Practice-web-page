@@ -117,5 +117,24 @@ img {
     align-self: center;
 }
 
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    background-color: #e5e7eb;
+    font-weight: 300;
+    font-size: 18px;
+    font-family: "century gothic", sans-serif;
+    font-style: italic;
+}
+#quote-speaker {
+    margin-left: auto;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
 
 
